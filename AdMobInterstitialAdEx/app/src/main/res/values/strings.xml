@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AdMob Interstitial Ad Ex</string>
+    <string name="caption">スリープ状態から復帰した際にインタースティシャル広告が表示されます</string>
+</resources>
